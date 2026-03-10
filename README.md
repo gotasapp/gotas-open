@@ -12,10 +12,10 @@ Already deployed and generating thousands of dollars in production. Fully transp
 
 ## Who Is This For?
 
-- **Football clubs** launching fan engagement programs
-- **Brands and retailers** building token-incentivized loyalty
-- **Charitable institutions** creating transparent incentive mechanisms
+- **Brands and retailers** building token-incentivized loyalty programs
+- **Institutions** creating transparent incentive mechanisms
 - **Any community** that needs proven Web3 loyalty infrastructure
+- **Sports clubs** launching fan engagement programs
 
 ## Key Features
 
